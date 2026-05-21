@@ -2,6 +2,12 @@ Feel Free to Connect : https://www.linkedin.com/in/dhackmt/
 
 #  LLM Gateway with Portkey 
 
+
+
+https://github.com/user-attachments/assets/5917994d-79ac-4368-80d3-3dc869f95498
+
+
+
 > **One-line summary:** An LLM Gateway is a proxy layer that sits between your application and any LLM provider — adding resilience, observability, and cost control with zero changes to your business logic.
 
 ---
